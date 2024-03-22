@@ -79,13 +79,13 @@ header p{
     border-top: 5px solid rgba(98, 218, 218, 1);
 }
 #tarjetas div:nth-child(3){
-    grid-column: 3/4;
-    grid-row: 2/4;
+    grid-column: 2/3;
+    grid-row: 3/5;
     border-top: 5px solid rgba(252, 155, 29, 1);
 }
 #tarjetas div:nth-child(4){
-    grid-column: 2/3;
-    grid-row: 3/5;
+    grid-column: 3/4;
+    grid-row: 2/4;
     border-top: 5px solid rgba(74, 157, 252, 1);
    /* width: 350px;
     margin: 0 auto;*/
